@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Data
+data/posted_log.json
+
+# IDE settings
+.vscode/
+.idea/
